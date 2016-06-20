@@ -1,0 +1,125 @@
+.section-img {
+  background-image: url("../images/back-lock.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh; }
+  .section-img h1 {
+    padding-top: 15%;
+    font-size: 50px; }
+  .section-img h1, .section-img h4 {
+    text-align: center;
+    color: white;
+    font-family: Ubuntu; }
+
+.capa {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6); }
+
+.carrito {
+  padding-top: 5%;
+  padding-bottom: 5%; }
+  .carrito .img-1 {
+    width: 85%; }
+  .carrito .img-carrito {
+    float: left;
+    padding-top: 6%; }
+  .carrito h2 {
+    font-family: Ubuntu;
+    border-bottom: 1px solid black;
+    font-size: 35px; }
+  .carrito h5 {
+    color: #909497; }
+  .carrito h3, .carrito p {
+    padding-left: 30%;
+    padding-top: 1%;
+    color: #909497; }
+
+.welcome {
+  text-align: center;
+  color: white;
+  background-image: url("../images/bg3.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh; }
+  .welcome video {
+    margin-top: 15%; }
+  .welcome h2 {
+    padding-top: 32%; }
+
+.imagenes {
+  padding: 3% 0%; }
+  .imagenes h2 {
+    font-family: Ubuntu;
+    border-bottom: 1px solid black;
+    font-size: 35px; }
+  .imagenes h5 {
+    padding-top: 10%; }
+  .imagenes h6, .imagenes p {
+    color: #424949; }
+  .imagenes .fa {
+    color: #909497;
+    padding-left: 6%;
+    font-size: 20px;
+    padding-bottom: 15%; }
+  .imagenes img {
+    width: 100%; }
+    .imagenes img:hover {
+      -webkit-transition: all 700ms linear;
+      -moz-transition: all 700ms linear;
+      -ms-transition: all 700ms linear;
+      -o-transition: all 700ms linear;
+      transition: all 700ms linear; }
+
+.cajas {
+  font-family: Ubuntu;
+  text-align: center;
+  padding-bottom: 5%; }
+  .cajas strong {
+    font-size: 50px; }
+  .cajas .caja-gris {
+    background-color: #F2F3F4; }
+    .cajas .caja-gris:hover {
+      background-color: white;
+      border: 1px solid grey; }
+    .cajas .caja-gris .fa {
+      font-size: 50px;
+      color: grey; }
+    .cajas .caja-gris h3 {
+      color: grey;
+      padding: 5%; }
+  .cajas .caja-gris-peque {
+    border: 1px solid grey;
+    padding-top: 10%; }
+  .cajas .caja-gris-peque2 {
+    float: left;
+    border: 1px solid grey;
+    padding-left: 9%;
+    padding-top: 10%;
+    width: 130px; }
+  .cajas .caja-negra {
+    background-color: black;
+    padding: 1%; }
+    .cajas .caja-negra h3 {
+      font-size: 20px;
+      color: white; }
+
+.header-gris h3 {
+  font-family: Ubuntu;
+  color: grey;
+  display: inline-block; }
+
+.footer-gris {
+  color: #424949;
+  background-color: #F2F3F4; }
+  .footer-gris h6 {
+    padding-top: 5%; }
+  .footer-gris .fa {
+    color: #424949;
+    padding-top: 7%;
+    font-size: 20px;
+    margin-left: 5%; }
+
+/*# sourceMappingURL=main.css.map */

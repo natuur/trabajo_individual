@@ -1,0 +1,5 @@
+@mixin modulo($bc-attach, $bc-repeat, $bc-pos){
+	background-attachment: $bc-attach;
+  	background-repeat: $bc-repeat;
+  	background-position: $bc-pos;
+}
